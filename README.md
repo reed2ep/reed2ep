@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-/* Im currently a Junior Computer Science student. I can be reached at my personal email: reed.ethan44@gmail.com. 
+Im currently a Junior Computer Science student. I can be reached at my personal email: reed.ethan44@gmail.com. 
 <!--
 **reed2ep/reed2ep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
