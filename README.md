@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im currently a Senior Computer Science student. I can be reached at my personal email: reed.ethan44@gmail.com. 
+Im a CS grad from UC '25 and currently a Developer at CADTalk. I can be reached at my personal email: ethan.r96023@gmail.com. 
 <!--
 **reed2ep/reed2ep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
